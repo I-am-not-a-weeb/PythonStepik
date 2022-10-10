@@ -1,1 +1,1 @@
-# PythonStepik
+Dominik Krakowski
